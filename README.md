@@ -37,7 +37,7 @@ Linear Interpolation
 
 Circular Interpolation
 
-## OUTPUT:
+## PROGRAM
 ![OUTPUT](./Entry.PNG)
 
 ![OUTPUT](./Status.PNG)
@@ -54,6 +54,11 @@ Circular Interpolation
 ### Circular Interpolation
 ![OUTPUT](./Final%20Program%20Linear.PNG)
 
+## OUTPUT
+### Linear Interpolation
+![OUT](./3.jpeg)
+### Circular Interpolation
+![OUT](./2.jpeg)
 
 ## Result
 A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully..
